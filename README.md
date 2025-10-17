@@ -1,0 +1,1 @@
+[![Header](https://github.com/antshel/antshel/blob/main/assets/freepik--20251017145524ZsPX.png)]
