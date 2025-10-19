@@ -14,5 +14,5 @@
 ![Python](https://img.shields.io/badge/-Python-2E2E2E?style=for-the-badge&logo=Python&logoColor=3776AB)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-2E2E2E?style=for-the-badge&logo=PostgreSQL&logoColor=4479A1)
 ## Контакты
-Email: toni.shelepov.03@mail.ru
+**Email:** toni.shelepov.03@mail.ru  
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/Velinen)
