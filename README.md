@@ -1,6 +1,6 @@
 ![Header](https://github.com/antshel/antshel/blob/main/assets/freepik--20251017150559QUff.png)
 ## Обо мне
-Меня зовут Антон, я начинающий QA Engineer.
+Меня зовут Антон, я начинающий QA Engineer. Интересуюсь тестированием веб и мобильных приложений. Умею работать с Postman, DevTools, Jira, составлять тест кейсы и баг репорты. Стремлюсь развиваться в этом направлени, поэтому планирую начать изучать автоматизацию тестрования.
 ## My CV
 [Ссылка на резюме](https://drive.google.com/file/d/10rAr1bk7KJeI3jFdoPr5O8qReye_NBsI/view?usp=sharing)
 ## Проекты
