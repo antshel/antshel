@@ -3,8 +3,8 @@
 Меня зовут Антон, я начинающий QA Engineer.
 ## My CV
 [Ссылка на резюме](https://drive.google.com/file/d/10rAr1bk7KJeI3jFdoPr5O8qReye_NBsI/view?usp=sharing)
-## Портфолио
-
+## Проекты
+[1.DemoWebShop](https://github.com/antshel/web_shop_project)
 ## Инструменты и языки
 ![Postman](https://img.shields.io/badge/-Postman-2E2E2E?style=for-the-badge&logo=Postman&logoColor=FF6C37)
 ![Swagger](https://img.shields.io/badge/-Swagger-2E2E2E?style=for-the-badge&logo=Swagger&logoColor=85EA2D)
