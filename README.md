@@ -4,7 +4,7 @@
 ## Мое резюме
 [Ссылка на резюме](https://drive.google.com/file/d/10rAr1bk7KJeI3jFdoPr5O8qReye_NBsI/view?usp=sharing)
 ## Портфолио (проекты)
-[Регистарция и авторизация (Matbea.com)](https://github.com/antshel/matbea_project)
+### [Регистарция и авторизация (Matbea.com)](https://github.com/antshel/matbea_project)
 ## Инструменты и языки
 ![Postman](https://img.shields.io/badge/-Postman-2E2E2E?style=for-the-badge&logo=Postman&logoColor=FF6C37)
 ![Swagger](https://img.shields.io/badge/-Swagger-2E2E2E?style=for-the-badge&logo=Swagger&logoColor=85EA2D)
