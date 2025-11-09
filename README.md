@@ -4,7 +4,15 @@
 ## Мое резюме
 [Ссылка на резюме](https://drive.google.com/file/d/10rAr1bk7KJeI3jFdoPr5O8qReye_NBsI/view?usp=sharing)
 ## Портфолио (проекты)
-### [Регистарция и авторизация (Matbea.com)](https://github.com/antshel/matbea_project)
+### Авторизация и регистрация (matbea)
+Описание:
+Тестирование функционала авторизации, регистрации и восстановление пароля на сайте matbea.
+Проверены позитивные и негативные сценарии, валидация полей.
+
+- [Чек-листы](https://docs.google.com/spreadsheets/d/1OppPQAclZOErhxw4sAypHNalSTow2a5-/edit?usp=sharing&ouid=110905028724232492985&rtpof=true&sd=true)
+- [Тест-кейсы](https://github.com/antshel/matbea_project)
+- [Баг-репорт](https://docs.google.com/spreadsheets/d/11xGDHiJh_euJHLSwzKYW7i69WmY-sybozETtBCO4BS8/edit?usp=sharing)
+
 ## Инструменты и языки
 ![Postman](https://img.shields.io/badge/-Postman-2E2E2E?style=for-the-badge&logo=Postman&logoColor=FF6C37)
 ![Swagger](https://img.shields.io/badge/-Swagger-2E2E2E?style=for-the-badge&logo=Swagger&logoColor=85EA2D)
