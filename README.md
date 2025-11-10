@@ -7,11 +7,13 @@
 ### 1. Авторизация и регистрация (matbea)
 Описание:
 Тестирование функционала авторизации, регистрации и восстановление пароля на сайте matbea.
-Проверены позитивные и негативные сценарии, валидация полей.
+Проверены позитивные и негативные сценарии, валидация полей, UI/UX.
 
 - [Чек-листы](https://docs.google.com/spreadsheets/d/1OppPQAclZOErhxw4sAypHNalSTow2a5-/edit?usp=sharing&ouid=110905028724232492985&rtpof=true&sd=true)
 - [Тест-кейсы](https://docs.google.com/spreadsheets/d/1d0Sw_WJbTq4WH1-FJ7buojBUkm83vvcWrtWBi5OJHuw/edit?usp=sharing)
 - [Баг-репорт](https://docs.google.com/spreadsheets/d/11xGDHiJh_euJHLSwzKYW7i69WmY-sybozETtBCO4BS8/edit?usp=sharing)
+- [UI](https://docs.google.com/spreadsheets/d/15WaAmB1hl_4iWXW6igy7K9zjo5KS2F2ACaJ_-cMDGX0/edit?usp=sharing)
+- [UX](https://docs.google.com/spreadsheets/d/1dzLHrBSnhiUXCGOVEzSw52tp_NiN_QLCLK4sx_ocvJk/edit?usp=sharing)
 
 ## Инструменты и языки
 ![Postman](https://img.shields.io/badge/-Postman-2E2E2E?style=for-the-badge&logo=Postman&logoColor=FF6C37)
